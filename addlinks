@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <style>
+    a:link{color:red;
+    a:visied{color:green;}
+    a:hover{color:hotpink;}
+    a:active{color:blue;}</style>
+    <body>
+    <p><b><a href="https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF_%E0%A4%AE%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%9F" target="blank"> this is a link </a></b></p>
+    </body>
+</html>
