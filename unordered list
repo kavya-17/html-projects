@@ -1,0 +1,22 @@
+DoCtype!>
+    <html>
+        <head>
+            <h1> mis kavya</h1>
+        
+        </head>
+        <body>
+            <ul>
+                <li> kavya</li>
+                <li> heena</li>
+                <li> hima malini</li>
+            </ul>
+
+            <ol type="III">          
+                    <li> kavya</li>
+                    <li> heena</li>
+                    <li> hima malini</li>
+                </ol>
+
+        </body>
+
+    </html>
