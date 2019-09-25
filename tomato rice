@@ -1,0 +1,128 @@
+html>
+    <head>
+        
+    
+    </head>
+        <body>
+
+<style>
+header{background-color:whitesmoke;
+width:100%;
+height:100px;
+padding:20px;
+}
+nav {background-color:wheat;
+width:100%;
+height:15px;
+padding:20px;
+margin-top:10px;
+margin-bottom:10px;}
+ section
+{width:100%;
+background-color:thistle;
+height:2000px
+;}
+span{background-color:lightblue;
+margin-left:500px;
+margin-right:30px;
+
+
+}
+footer{background-color:lightslategray;
+width:100%;
+height:100px;}
+ </style>
+
+
+
+            <header>
+              <center> <h1> my favourite songs </h1></center>
+
+               
+            </header>
+                <nav>  </nav>
+           <div1>  <section> 
+        
+<span>
+        <p>Music is an art form and cultural activity whose medium is sound organized
+                in time. General definitions of music include common elements such as
+                 pitch (which governs melody and harmony), rhythm (and its associated
+                  concepts tempo, meter, and articulation), dynamics (loudness and softness),
+                   and the sonic qualities of timbre and texture (which are sometimes termed
+                    the "color" of a musical sound). Different styles or types of music may
+                     emphasize, de-emphasize or omit some of these elements.
+                      Music is performed with a vast range of instruments and vocal techniques
+                       ranging from singing to rapping; there are solely instrumental pieces,
+                        solely vocal pieces (such as songs without instrumental accompaniment)
+                         and pieces that combine singing and instruments. </p>
+        <center>  <img src="download (11).jpg" width="400" height="200"></center>
+
+        <center><audio controls>
+        
+    <source src="Rowdy-Baby-MassTamilan.org.mp3">
+        <source src="audio mp3">
+         
+            
+</audio></center>
+<br>
+<br>
+<center>  <img src="download (12).jpg" width="400" height="200"></center>
+
+<center><audio  controls>
+
+<source src="Guleba-Sokama-Sokama-MassTamilan.com.mp3">
+<source src="audio mp3">
+ 
+    
+</audio></center>
+<br>
+<br>
+<center>  <img src="download (14).jpg " width="400" height="200"></center>
+
+<center><audio  controls>
+
+<source src="Kaathalae_Kaathalae-MassTamilan.com.mp3">
+<source src="audio mp3">
+    
+</audio></center>
+<br>
+<br>
+
+<center>  <img src="download (15).jpg" width="400" height="200"></center>
+
+<center><audio  controls>
+
+<source src="Voda-Voda-Voda.mp3">
+<source src="audio mp3">
+</audio></center>
+<br>
+<br>
+<center>  <img src="download (16).jpg" width="400" height="200"></center>
+
+<center><audio  controls>
+
+<source src="Yaanji [Masstamilan.In]-.mp3">
+<source src="audio mp3">
+</audio></center>
+<br>
+<br>
+<center>  <img src="download (17).jpg" width="400" height="200"></center>
+
+<center><audio  controls>
+
+<source src="Gokka-Makka.mp3">
+<source src="audio mp3">
+</audio></center>
+<br> 
+<br>
+</span>
+
+</section></div1>
+
+ </style>
+ <footer>
+     &copy
+      </footer>
+</body>
+
+</html>
